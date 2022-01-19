@@ -4,7 +4,7 @@
   [501 Schermerhorn](https://www.wikicu.com/Schermerhorn_Hall)   
   3 units
 * [Syllabus](./syllabus)
-* [Ed Discussion](https://piazza.com/class/jqob2b49yne360))
+* [Ed Discussion](https://piazza.com/class/jqob2b49yne360)
 * [Provide Feedback](https://goo.gl/forms/QIfWsPnwu3YHtamk1)
 * [Course Github](http://github.com/w4111)
 
@@ -12,11 +12,18 @@
 
 
 * [Eugene Wu](http://www.eugenewu.net) <small>Instructor</small>   
-  <small>TBA</small>
-* [Zachary Huang](#)<br/>   
+  <small>Weds 2-3PM</small>
+* [Zachary Huang](http://www.columbia.edu/~zh2408/)<br/>   
   <small></small>
 * [Jacob Fisher](#)<br/>   
   <small></small>
+* [Ashwathy Menon](#)<br/>
+  <small></small>
+* [Sughosh V Kaushik](#)<br/>
+  <small></small>
+* [Rachel Halpern](#)<br/>
+  <small></small>
+
 
 
 
@@ -30,10 +37,10 @@
 
 * Homeworks <small>15%</small>
   * [HW0](https://github.com/w4111/hw0) <small>0%</small>
-  * [HW1](https://github.com/w4111/hw1) <small>3.75%</small>
-  * [HW2](https://github.com/w4111/hw2) <small>3.75%</small>
-  * [HW3](https://github.com/w4111/hw3) <small>3.75%</small>
-  * [HW4](https://github.com/w4111/hw4) <small>3.75%</small>
+  * [HW1](https://github.com/w4111/hw1-s22) <small>3.75%</small>
+  * [HW2](https://github.com/w4111/hw2-s22) <small>3.75%</small>
+  * [HW3](https://github.com/w4111/hw3-s22) <small>3.75%</small>
+  * [HW4](https://github.com/w4111/hw4-s22) <small>3.75%</small>
 * [Project 1](https://github.com/w4111/project1) <small>15%</small>
 * [Project 2](https://github.com/w4111/project2) <small>5%</small>
 * Midterm 1 <small>25%</small>
