@@ -21,6 +21,21 @@ as the field is moving quickly.
 Course website: [http://w4111.github.io/](http://w4111.github.io/)
 
 
+### Format
+
+Class meets once a week for ~3 hours
+
+* There will be a break in the middle of each lecture
+* All lectures will be delivered live.  The first 2 weeks will be virtual (Zoom-only).  In-person will resume based on University guidance.
+* All zoom recordings will be on Courseworks.  
+* Attending lectures live is not required.  It is encouraged and will give you the change to participate in discussions, practice problems, etc.
+* Webcams and mics are not required, though encouraged.
+* We will use Ed (rather than courseworks) for discussions.  
+
+Quizzes 
+
+* We will have a handful of multiple choice quizzes during lecture throughout the semester.
+* Quizzes are ungraded, and discussed during lecture
 
 ### Textbook
 
@@ -125,24 +140,17 @@ Notes on grading (please read):
 * Don't cheat.  It's not worth it.
 
 
-<!--
 <a name="ec"/>
 #### Extra Credit
 
-Extra credit is a way for students to illustrate their understanding of the course material in ways beyond formal assignments and exams.  The amount of extra credit for scribe notes is variable, and the amount for the advanced assignments are described on the assignment descriptions.   **There is NO PENALTY for not doing extra credit** because it is added to the final grade **after computing the curve**.  
+Extra credit is a way for students to illustrate their understanding of the course material in ways beyond formal assignments and exams.  **There is NO PENALTY for not doing extra credit** because it is added to the final grade **after computing any curves**.  
 
-1. We first compute the curve and grade cut-offs using scores that **do not** include any extra credit
+1. We first grade cut-offs using scores that **do not** include any extra credit
 2. Then we add extra credit points.  
 
 Due to the additional work that the staff must take to assess and manage extra credit opportunities, we have **strict deadlines** for extra credit opportunities (aka no late days).
 
 
-#### Extra Credit Opportunities
-
-* [Improve the scribe notes wiki](https://github.com/w4111/scribenotes/wiki)
-* Do [Advanced Assignments](https://github.com/w4111/advanced-public)
-
--->
 
 ### Grace Days
 
