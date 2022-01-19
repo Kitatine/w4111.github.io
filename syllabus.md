@@ -22,13 +22,13 @@ Course website: [http://w4111.github.io/](http://w4111.github.io/)
 
 
 
-#### Textbook
+### Textbook
 
-*  (Not Required) Database Management Systems 3rd Edition by Ramakrishnan and Gehrke. 
+*  (Not Required) Silberschatz et al. [Database System Concepts 7th ed.](https://db-book.com/)
   * We include the relevant chapters in the schedule in case you want to read more.
 
 
-#### Prerequisites
+### Prerequisites
 
 Required Prereqs
 
@@ -49,7 +49,7 @@ If you have used Java before, then use [this Java2Python tutorial](./java2python
 that we have written to see how Java concepts transfer into Python concepts.  It also
 contains links to useful tutorials.
 
-#### Programming Resources
+### Programming Resources
 
 * See our [Java to Python Quick Guide](./java2python)
 * Additional resources
@@ -63,7 +63,7 @@ contains links to useful tutorials.
 
 
 
-#### Assignment Collaboration Policies AKA Cheating
+### Assignment Collaboration Policies AKA Cheating
 
 Homeworks
 
@@ -85,12 +85,12 @@ Collaboration and Cheating
 * If you are struggling to keep up in the course, come see the instructor during office hours.
 * Cheating is a slippery slope -- it may be enticing, but goes against the values in this course.
 
-**[If you have _any_ doubt, see Columbia's description of academic honesty](http://www.cs.columbia.edu/education/honesty)**
+**[If you have _any_ doubt, see Columbia's description of academic honesty](http://www.cs.columbia.edu/education/honesty) or talk to the Professor**
 
 
 
 
-### Homeworks
+## Homeworks
 
 * Auditors: feel free to come to lectures.  Only students registered for course units may turn in work to be graded.
 * CVN students:
@@ -137,28 +137,34 @@ Extra credit is a way for students to illustrate their understanding of the cour
 Due to the additional work that the staff must take to assess and manage extra credit opportunities, we have **strict deadlines** for extra credit opportunities (aka no late days).
 
 
-##### Extra Credit Opportunities
+#### Extra Credit Opportunities
 
 * [Improve the scribe notes wiki](https://github.com/w4111/scribenotes/wiki)
 * Do [Advanced Assignments](https://github.com/w4111/advanced-public)
 
 -->
 
+### Grace Days
 
-#### Late Days
+#### Grace Days for Homeworks
 
-Homeworks
+Unless otherwise specified, you are allowed 5 penalty free late days to use throughout the semester for _homework only_.  
 
-* You allowed 3 penalty free late days to use throughout the semester for _homework only_.  
 * One late day equals one 24 hour period after the due date of the assignment.  
 * Even 1 minute late equals the use of a late day.
 * Once you have used your late days, there will be a 25% penalty for each day an assignment is late.  
-<!-- * You do not need to explictly declare the use of late days;  we will assign them to you in a way that is optimal for your grade when different assignments are worth different numbers of points.   -->
+* You do not need to explictly declare the use of late days;  we will assign them to you in a way that is optimal for your grade, based on the worth of an assignment and your score on the assignment.
 
-Projects 
+
+**In some cases, we will specify that an assignment will not accept late submissions beyond a certain day**.
+This is so that we have time to release solutions (say, before an exam).
+
+
+#### Grace Days for Projects 
+
+For projects, you are allowed 3 penalty free late days to be used only for projects.   
 
 * Same deal as homeworks
-* For projects, you are allowed 3 penalty free late days to be used only for projects.   
 * One late day equals one 24 hour period after the due date of the assignment.  
 * Even 1 minute late equals the use of a late day.
 * Once you have used your late days, there will be a 25% penalty for each day an assignment is late.  
@@ -166,22 +172,20 @@ Projects
 * **TEAMS**: _both_ members of the team are deducted late days for each day the assignment is late.  
   If either member is out of late days, your grade will be deducted as per above.
 
-Additional late day rules
+#### Additional Grace Day Rules
 
 * Late days are nontransferrable between homeworks and projects
 * To use a late day for a project, both team partners must have a project grace day available each, and they will both be deducted one project grace day each. If you change team partners and your new partner does not have any project grace days left, then unfortunately you will not be able to use any grace days for the project.
-* They do not apply to advanced assignments.
+* Grace days do not apply to extra credit assignments
 
 
-
-
-Alternative procedures to submit late homework:
+#### Procedures to submit late homework:
 
 * **(Most Preferred)** Bring to any TA's office hours.
 * **(Preferred)** Bring to class.
 * **(Least preferred)** Submit to Professor Wu's office: 421 Mudd in the DSI space: [map](http://eugenewu.net/files/images/map.png)
 
-When using late days, note that homeworks tend to get harder later in the course.
+When planning to use grace days, note that homeworks tend to get harder later in the course.
 
 
 
