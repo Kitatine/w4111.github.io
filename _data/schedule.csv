@@ -1,6 +1,6 @@
 color,date,slug,title,lshow,link,readings,optional,assigned,ashow,due,dshow
 white,21-Jan,Intro + ER Models,,1,https://github.com/w4111/w4111.github.io/blob/master/files/lectures/lec1.pdf,"Ch 1, 2",,"<a href=""https://github.com/w4111/hw0"">HW 0</a>",,,
-#e7f8ff,28-Jan,ER Models,,,,Ch 2,,"<a href=""https://github.com/w4111/hw1-s22"">HW 1</a><br/><a href=""https://github.com/w4111/project1"">Project 1 Part 1.</a> <br/>LOOK FOR TEAMMATE",0,HW 0,
+#e7f8ff,28-Jan,ER Models,,1,https://github.com/w4111/w4111.github.io/blob/master/files/lectures/lec2.pdf,Ch 2,,"<a href=""https://github.com/w4111/hw1-s22"">HW 1</a><br/><a href=""https://github.com/w4111/project1"">Project 1 Part 1.</a> <br/>LOOK FOR TEAMMATE",0,HW 0,
 #e7f8ff,4-Feb,Data Models,,,,Ch 3,"optional: <a href=""./reading/goesaroundcomesaround.pdf"">What goes around comes around</a><br/>optional: <a href=""https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/"">NoSQL data modeling techniques</a>", ,0,HW1 Part1,0
 #e7f8ff,11-Feb,Data Models + ER->Relational,,,,Ch 3,"optional: <a href=""./reading/codd.pdf"">Original Relational Model paper</a>", ,0,Project 1 Part 1 approval phase,0
 #f2f9ed,18-Feb,Relational Algebra,,,,Ch 4,,"<a href=""https://github.com/w4111/project1"">Project 1 Part 2.</a> <br/><a href=""https://github.com/w4111/hw2-s22"">HW 2</a>",0,Project 1 Part 1 approval phase,0
