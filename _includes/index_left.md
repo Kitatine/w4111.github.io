@@ -4,7 +4,7 @@
   [501 Schermerhorn](https://www.wikicu.com/Schermerhorn_Hall)   
   3 units
 * [Syllabus](./syllabus)
-* [Ed Discussion](https://piazza.com/class/jqob2b49yne360)
+* [Ed Discussion](https://edstem.org/us/courses/17037/discussion/)
 * [Provide Feedback](https://goo.gl/forms/QIfWsPnwu3YHtamk1)
 * [Course Github](http://github.com/w4111)
 
