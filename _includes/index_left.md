@@ -13,16 +13,18 @@
 
 * [Eugene Wu](http://www.eugenewu.net) <small>Instructor</small>   
   <small>Weds 2-3PM</small>
-* [Zachary Huang](http://www.columbia.edu/~zh2408/)<br/>   
-  <small></small>
-* [Jacob Fisher](#)<br/>   
-  <small></small>
-* [Ashwathy Menon](#)<br/>
-  <small></small>
-* [Sughosh V Kaushik](#)<br/>
-  <small></small>
-* [Rachel Halpern](#)<br/>
-  <small></small>
+* [Zachary Huang](http://www.columbia.edu/~zh2408/)   
+  <small>TBA</small>
+* [Jacob Fisher](#)   
+  <small>TBA</small>
+* [Ashwathy Menon](#)   
+  <small>TBA</small>
+* [Sughosh V Kaushik](#)   
+  <small>TBA</small>
+* [Rachel Halpern](#)   
+  <small>TBA</small>
+* [Twisha Jain](#)   
+  <small>TBA</small>
 
 
 
