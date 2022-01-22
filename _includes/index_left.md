@@ -14,17 +14,17 @@
 * [Eugene Wu](http://www.eugenewu.net) <small>Instructor</small>   
   <small>Weds 2-3PM</small>
 * [Zachary Huang](http://www.columbia.edu/~zh2408/)   
-  <small>TBA</small>
+  <small>Tues 3-5PM</small>
 * [Jacob Fisher](#)   
-  <small>TBA</small>
+  <small>Mon/Weds 3-4PM</small>
 * [Ashwathy Menon](#)   
-  <small>TBA</small>
+  <small>Tues 9-11AM</small>
 * [Sughosh V Kaushik](#)   
-  <small>TBA</small>
+  <small>Fri 5-7PM</small>
 * [Rachel Halpern](#)   
-  <small>TBA</small>
+  <small>Thurs 3:30-5:30PM</small>
 * [Twisha Jain](#)   
-  <small>TBA</small>
+  <small>Weds 5-7PM</small>
 
 
 
