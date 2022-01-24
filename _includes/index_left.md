@@ -22,9 +22,16 @@
 * [Sughosh V Kaushik](#)   
   <small>Fri 5-7PM</small>
 * [Rachel Halpern](#)   
-  <small>Thurs 3:30-5:30PM</small>
+  <small>Mon 7-9PM</small>
 * [Twisha Jain](#)   
   <small>Weds 5-7PM</small>
+* [Bochao Xin](#)   
+  <small>TBA</small>
+* [Lucas Bamidele Tinoco Kalejaiye](#)   
+  <small>TBA</small>
+* [Mausam Agrawal](#)   
+  <small>TBA</small>
+
 
 
 
