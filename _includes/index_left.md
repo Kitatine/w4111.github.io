@@ -16,7 +16,7 @@
 * [Zachary Huang](http://www.columbia.edu/~zh2408/)   
   <small>Tues 3-5PM</small>
 * [Jacob Fisher](#)   
-  <small>Mon/Weds 3-4PM</small>
+  <small>Mon 3-5PM</small>
 * [Ashwathy Menon](#)   
   <small>Tues 9-11AM</small>
 * [Sughosh V Kaushik](#)   
