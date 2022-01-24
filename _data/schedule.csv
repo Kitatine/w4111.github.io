@@ -1,17 +1,17 @@
 color,date,slug,title,lshow,link,readings,optional,assigned,ashow,due,dshow
-white,21-Jan,Intro + ER Models,,1,https://github.com/w4111/w4111.github.io/blob/master/files/lectures/lec1.pdf,"Ch 1, 2",,"<a href=""https://github.com/w4111/hw0"">HW 0</a>",,,
-#e7f8ff,28-Jan,ER Models,,1,https://github.com/w4111/w4111.github.io/blob/master/files/lectures/lec2.pdf,Ch 2,,"<a href=""https://github.com/w4111/hw1-s22"">HW 1</a><br/><a href=""https://github.com/w4111/project1-s22"">Project 1 Part 1.</a> <br/>LOOK FOR TEAMMATE",0,HW 0,
-#e7f8ff,4-Feb,Data Models,,,,Ch 3,"optional: <a href=""./reading/goesaroundcomesaround.pdf"">What goes around comes around</a><br/>optional: <a href=""https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/"">NoSQL data modeling techniques</a>", ,0,HW1 Part1,0
-#e7f8ff,11-Feb,Data Models + ER->Relational,,,,Ch 3,"optional: <a href=""./reading/codd.pdf"">Original Relational Model paper</a>", ,0,Project 1 Part 1 approval phase,0
-#f2f9ed,18-Feb,Relational Algebra,,,,Ch 4,,"<a href=""https://github.com/w4111/project1-s22"">Project 1 Part 2.</a> <br/><a href=""https://github.com/w4111/hw2-s22"">HW 2</a>",0,Project 1 Part 1 approval phase,0
-#f2f9ed,25-Feb,SQL: Basics,,,,Ch 5,,,0,HW1 Part 2,0
-#f2f9ed,4-Mar,SQL: Advanced,,,,Ch 5,,,0,HW2,0
+white,21-Jan,Intro + ER Models,,1,https://github.com/w4111/w4111.github.io/blob/master/files/lectures/lec1.pdf,,,"<a href=""https://github.com/w4111/hw0"">HW 0</a>",,,
+#e7f8ff,28-Jan,ER Models,,1,https://github.com/w4111/w4111.github.io/blob/master/files/lectures/lec2.pdf,"Chapter 6 except for Sections 6.7, 6.10, and 6.11.",,"<a href=""https://github.com/w4111/hw1-s22"">HW 1</a><br/><a href=""https://github.com/w4111/project1-s22"">Project 1 Part 1.</a> <br/>LOOK FOR TEAMMATE",0,HW 0,
+#e7f8ff,4-Feb,Data Models,,,,"Ch 2.1-2.3, 2.5, 6.7, 6.8, except 6.7.2","optional: <a href=""./reading/goesaroundcomesaround.pdf"">What goes around comes around</a><br/>optional: <a href=""https://highlyscalable.wordpress.com/2012/03/01/nosql-data-modeling-techniques/"">NoSQL data modeling techniques</a>", ,0,HW1 Part1,0
+#e7f8ff,11-Feb,Data Models + ER->Relational,,,,"Ch 2.1-2.3, 2.5, 6.7, 6.8, except 6.7.2","optional: <a href=""./reading/codd.pdf"">Original Relational Model paper</a>", ,0,Project 1 Part 1 approval phase,0
+#f2f9ed,18-Feb,Relational Algebra,,,,"Ch 2.6 (use lecture notations, which differ from the book)",,"<a href=""https://github.com/w4111/project1-s22"">Project 1 Part 2.</a> <br/><a href=""https://github.com/w4111/hw2-s22"">HW 2</a>",0,Project 1 Part 1 approval phase,0
+#f2f9ed,25-Feb,SQL: Basics,,,,Ch 3,,,0,HW1 Part 2,0
+#f2f9ed,4-Mar,SQL: Advanced,,,,"Ch 4.1-4.4, 5.2-5.4",,,0,HW2,0
 white,11-Mar,Midterm,one 8x11 page cheat sheet both sides,,,,,"<a href=""https://github.com/w4111/project1-s22/blob/master/part3.md"">Project 1 Part 3</a><br/><a href=""https://github.com/w4111/hw3-s22"">HW 3</a>",0,,0
 white,18-Mar,HOLIDAY,,,,,,,0,Project 1 Part 2 (Due Mon 2/21),0
-#edf3f9,25-Mar,APIs,,,,Ch 6,,,0,,0
-#edf3f9,1-Apr,Data Quality,Normalization and data errors,,,Ch 19,,"<a href=""https://github.com/w4111/hw4-s22"">HW 4</a>",0,HW3,0
-#ddf9ff,8-Apr,Physical Design,,,,Ch 8,,"<a href=""https://github.com/w4111/project2-s22"">Project 2</a>",0,,0
-#ddf9ff,15-Apr,Query Processing,,,,Ch 12,,,0,Project 1 Part 3,0
-#ddf9ff,22-Apr,Transactions,,,,"Ch 16, 18",,,0,,0
+#edf3f9,25-Mar,APIs,,,,,,,0,,0
+#edf3f9,1-Apr,Data Quality,Normalization and data errors,,,,,"<a href=""https://github.com/w4111/hw4-s22"">HW 4</a>",0,HW3,0
+#ddf9ff,8-Apr,Physical Design,,,,,,"<a href=""https://github.com/w4111/project2-s22"">Project 2</a>",0,,0
+#ddf9ff,15-Apr,Query Processing,,,,,,,0,Project 1 Part 3,0
+#ddf9ff,22-Apr,Transactions,,,,,,,0,,0
 white,29-Apr,Data Pipelines,,,,,,,0,HW 4,0
 white,13-May,Exam 2 (Cumulative),one 8x11 page cheat sheet both sides,,,,,,0,Project 2,0
