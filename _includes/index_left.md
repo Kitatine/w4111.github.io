@@ -26,14 +26,11 @@
 * [Twisha Jain](#)   
   <small>Weds 5-7PM</small>
 * [Bochao Xin](#)   
-  <small>TBA</small>
+  <small>Thurs 10AM-12PM </small>
 * [Lucas Bamidele Tinoco Kalejaiye](#)   
   <small>TBA</small>
 * [Mausam Agrawal](#)   
   <small>TBA</small>
-
-
-
 
 
 
