@@ -28,9 +28,9 @@
 * [Bochao Xin](#)   
   <small>Thurs 10AM-12PM </small>
 * [Lucas Bamidele Tinoco Kalejaiye](#)   
-  <small>TBA</small>
+  <small>Thurs 2-4PM</small>
 * [Mausam Agrawal](#)   
-  <small>TBA</small>
+  <small>Weds 8-10AM</small>
 
 
 
