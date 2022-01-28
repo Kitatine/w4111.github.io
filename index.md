@@ -28,6 +28,7 @@ Developed by others:
 
 #### Announcements
 
+* Updated lecture 2 slides to clarify constraints over N-way relationships.
 * [HW0](https://github.com/w4111/hw0) released.  
 
 #### Schedule
