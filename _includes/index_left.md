@@ -42,7 +42,7 @@
 #### Grading
 
 * Homeworks <small>15%</small>
-  * [HW0](https://github.com/w4111/hw0) <small>0%</small>
+  * [HW0](https://github.com/w4111/hw0) <small>0% mandatory</small>
   * [HW1](https://github.com/w4111/hw1-s22) <small>3.75%</small>
   * [HW2](https://github.com/w4111/hw2-s22) <small>3.75%</small>
   * [HW3](https://github.com/w4111/hw3-s22) <small>3.75%</small>
