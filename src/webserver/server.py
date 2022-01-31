@@ -1,5 +1,3 @@
-#!/usr/bin/env python2.7
-
 """
 Columbia W4111 Intro to databases
 Example webserver
@@ -18,9 +16,9 @@ Read about it online.
 import os
 from sqlalchemy import *
 from sqlalchemy.pool import NullPool
-from flask import Flask, request, render_template, g, redirect, Response
+from flask import Flask, request, render_template, g, redirect, Response, jsonify
 
-tmpl_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), 'templates')
+tmpl_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), './')
 app = Flask(__name__, template_folder=tmpl_dir)
 
 
@@ -29,7 +27,7 @@ app = Flask(__name__, template_folder=tmpl_dir)
 # However for the project you will need to connect to your Part 2 database in order to use the
 # data
 #
-# XXX: The URI should be in the format of: 
+# XXX: The URI should be in the format of:
 #
 #     postgresql://USER:PASSWORD@<IP_OF_POSTGRE_SQL_SERVER>/postgres
 #
@@ -38,7 +36,8 @@ app = Flask(__name__, template_folder=tmpl_dir)
 #     DATABASEURI = "postgresql://ewu2493:foobar@<IP_OF_POSTGRE_SQL_SERVER>/postgres"
 #
 # Swap out the URI below with the URI for the database created in part 2
-DATABASEURI = "postgresql://localhost/test"
+# DATABASEURI = "postgresql://localhost/test"
+DATABASEURI = "sqlite:///db.db"
 
 
 #
@@ -52,14 +51,14 @@ engine = create_engine(DATABASEURI)
 #
 # after these statements run, you should see a file test.db in your webserver/ directory
 # this is a sqlite database that you can query like psql typing in the shell command line:
-# 
+#
 #     sqlite3 test.db
 #
 # The following sqlite3 commands may be useful:
-# 
+#
 #     .tables               -- will list the tables in the database
 #     .schema <tablename>   -- print CREATE TABLE statement for table
-# 
+#
 # The setup code should be deleted once you switch to using the Part 2 postgresql database
 #
 engine.execute("""DROP TABLE IF EXISTS test;""")
@@ -68,6 +67,10 @@ engine.execute("""CREATE TABLE IF NOT EXISTS test (
   name text
 );""")
 engine.execute("""INSERT INTO test(name) VALUES ('grace hopper'), ('alan turing'), ('ada lovelace');""")
+engine.execute("""DROP TABLE IF EXISTS quiz;""")
+engine.execute("""CREATE TABLE IF NOT EXISTS quiz (
+  vote text
+);""")
 #
 # END SQLITE SETUP CODE
 #
@@ -77,7 +80,7 @@ engine.execute("""INSERT INTO test(name) VALUES ('grace hopper'), ('alan turing'
 @app.before_request
 def before_request():
   """
-  This function is run at the beginning of every web request 
+  This function is run at the beginning of every web request
   (every time you enter an address in the web browser).
   We use it to setup a database connection that can be used throughout the request
 
@@ -86,7 +89,7 @@ def before_request():
   try:
     g.conn = engine.connect()
   except:
-    print "uh oh, problem connecting to database"
+    print("uh oh, problem connecting to database")
     import traceback; traceback.print_exc()
     g.conn = None
 
@@ -101,32 +104,88 @@ def teardown_request(exception):
   except Exception as e:
     pass
 
+
+
+
+
+
 @app.route("/names/new/", methods=["post"])
 def names_new():
-  print request.form
+  """
+  Handle form submission of a new name
+  """
+  print(request.form)
   for key, val in request.form.items():
-    g.conn.execute("insert into test(name) values(%s)", val)
-
-  results = g.conn.execute("select name from test").fetchall()
-  data = str(results)
-  return data
+    g.conn.execute("insert into test(name) values(?)", val)
 
 
+  return redirect("/")
 
-@app.route("/", methods=["post", "get"])
-def myfunc():
-  #print dir(request)
-  print request.form
+
+
+@app.route("/names/", methods=["post", "get"])
+def names():
+  """
+  Retrieve list of names adde in the database
+  """
+  print(request.form)
   form = dict(request.form)
-  print form
-  print request.args
+  print(form)
+  print(request.args)
 
-  print g.conn
-  print g.conn.execute("select 1").fetchall()
+  print(g.conn)
+  data = [(i, val) for i, val in g.conn.execute("select * from test").fetchall()]
 
-  return render_template("index.html", data=[ [1, 'bob'], [2, 'nancy'] ])
+  return render_template("index.html", data=data)
 
 
+
+
+
+@app.route("/")
+def index():
+  """
+  Render Quiz page
+  """
+  return render_template("quiz.html")
+
+@app.route("/vote/", methods=["get", "post"])
+def vote():
+  """
+  Add vote to database
+  """
+  print(request.form)
+  if not request.form:
+    return redirect("/")
+
+  if 'vote' in request.form:
+    g.conn.execute("insert into quiz(vote) values(?)", request.form['vote'])
+  return redirect("/vote/stats")
+
+@app.route("/vote/stats/", methods=["get"])
+def stats():
+  """
+  Retrieve voting statistics
+  Turn statistics into a string of '##' characters for text-based plotting
+  """
+  cur = g.conn.execute("SELECT vote, count(*) as c from quiz GROUP BY vote ORDER BY vote")
+  d = dict()
+  total = 0
+  maxc = 1
+  for row in cur:
+      vote,c = tuple(row)
+      d[vote] = float(c)
+      total += c
+      maxc = max(c, maxc)
+
+  ret = []
+  for key in d:
+    c = d[key]
+    # re-scale visualization to 50 # chars
+    c = 1 + (d[key]*50 / maxc)
+    bar = int(c) * "#"
+    ret.append((key, bar, int(d[key])))
+  return render_template("quiz.html", stats=ret)
 
 if __name__ == "__main__":
   import click
@@ -150,7 +209,7 @@ if __name__ == "__main__":
     """
 
     HOST, PORT = host, port
-    print "running on %s:%d" % (HOST, PORT)
+    print("running on %s:%d" % (HOST, PORT))
     app.run(host=HOST, port=PORT, debug=debug, threaded=threaded)
 
 
