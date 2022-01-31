@@ -8,7 +8,8 @@
 * [Provide Feedback](https://goo.gl/forms/QIfWsPnwu3YHtamk1)
 * [Course Github](http://github.com/w4111)
 
-#### Staff
+#### Staff ([OH Links](https://edstem.org/us/courses/17037/discussion/1029187))
+
 
 
 * [Eugene Wu](http://www.eugenewu.net) <small>Instructor</small>   
@@ -31,8 +32,6 @@
   <small>Thurs 2-4PM</small>
 * [Mausam Agrawal](#)   
   <small>Weds 8-10AM</small>
-
-
 
 #### Prereqs
 
