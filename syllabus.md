@@ -166,6 +166,7 @@ Unless otherwise specified, you are allowed 5 penalty free late days to use thro
 
 **In some cases, we will specify that an assignment will not accept late submissions beyond a certain day**.
 This is so that we have time to release solutions (say, before an exam).
+Unless specified otherwise, for HWs this hard deadline is five days (120 hours) after the initial deadline).
 
 * HW0 does not accept grace days.
 * HW2 does not accept grace days.
