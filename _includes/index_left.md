@@ -8,7 +8,7 @@
 * [Provide Feedback](https://goo.gl/forms/QIfWsPnwu3YHtamk1)
 * [Course Github](http://github.com/w4111)
 
-#### Staff ([OH Links](https://edstem.org/us/courses/17037/discussion/1029187))
+#### Staff ([OH Links](https://edstem.org/us/courses/17037/discussion/1029187)/[OH Calendar](https://calendar.google.com/calendar/embed?src=v79hsp9qikue2f3s4bkdemsu4c%40group.calendar.google.com&ctz=America%2FNew_York))
 
 
 
