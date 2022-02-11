@@ -28,6 +28,7 @@ Developed by others:
 
 #### Announcements
 
+* [Link to er to sql notebook](https://github.com/w4111/w4111.github.io/tree/main/src/notebooks)
 * [Sign up for Project 1 Part 1 staff meetings!](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUpOU05mUUpZYXk2fGRlZmF1bHR8YmE0YmE0M2MzNzkyYWZjOTcxYjRkMTBmNDNmNjA1NDc)  One meeting per team.
 * Updated lecture 2 slides to clarify constraints over N-way relationships.
 * [HW0](https://github.com/w4111/hw0) released.  
