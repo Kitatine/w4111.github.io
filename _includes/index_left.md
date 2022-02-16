@@ -21,11 +21,11 @@
 * [Ashwathy Menon](#)   
   <small>Tues 9-11AM</small>
 * [Sughosh V Kaushik](#)   
-  <small>Fri 5-7PM</small>
+  <small>Fri 8-10AM</small>
 * [Rachel Halpern](#)   
   <small>Mon 7-9PM</small>
 * [Twisha Jain](#)   
-  <small>Weds 5-7PM</small>
+  <small>Thurs 8-10AM</small>
 * [Bochao Xin](#)   
   <small>Thurs 10AM-12PM </small>
 * [Lucas Bamidele Tinoco Kalejaiye](#)   
