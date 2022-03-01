@@ -28,6 +28,9 @@ Developed by others:
 
 #### Announcements
 
+* 2/28
+  * Updated lecture 4 to include full example of "Students that reserved all books"
+  * Updated lecture 5 with full example of INTERSECT
 * 2/25
   * Updated lecture 3 slide 82 so it say "Alternatively combine Courses and Instructs" rather than "Courses and Users"
   * [Practice exams](https://github.com/w4111/w4111.github.io/tree/main/files/reading)
