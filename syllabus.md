@@ -168,8 +168,8 @@ Unless otherwise specified, you are allowed 5 penalty free late days to use thro
 This is so that we have time to release solutions (say, before an exam).
 Unless specified otherwise, for HWs this hard deadline is five days (120 hours) after the initial deadline).
 
-* HW0 does not accept grace days.
-* HW2 does not accept grace days.
+* HW0 does not accept late submissions.
+* Homeworks do not accept ANY late submissions once the solution is released (thus grace days do not apply once the solution is released).
 
 
 #### Grace Days for Projects 
