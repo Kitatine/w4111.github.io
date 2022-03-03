@@ -28,6 +28,9 @@ Developed by others:
 
 #### Announcements
 
+* 3/2
+  * HW2 won't accept late submission after 3/5 10:00 AM EST because we will release solution.  
+
 * 2/28
   * Updated lecture 4 to include full example of "Students that reserved all books"
   * Updated lecture 5 with full example of INTERSECT
