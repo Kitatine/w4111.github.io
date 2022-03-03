@@ -4,6 +4,10 @@ layout: page
 
 ## W4111 Syllabus 
 
+Edits
+
+* 3/2: clarified when grace days and late days are accepted
+
 
 The goal of this class is two-fold.  First, to introduce
 you to core database concepts (e.g., data modeling, logical
