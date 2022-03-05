@@ -28,6 +28,8 @@ Developed by others:
 
 #### Announcements
 
+* 3/4
+  * Updated lecture 5 with group-by examples and midterm logistics.
 * 3/2
   * HW2 won't accept late submission after 3/5 10:00 AM EST because we will release solution.  
 
