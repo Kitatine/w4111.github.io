@@ -5,7 +5,7 @@ white,21-Jan,Intro + ER Models,,1,https://github.com/w4111/w4111.github.io/blob/
 #e7f8ff,11-Feb,Data Models + ER->Relational,,1,https://github.com/w4111/w4111.github.io/blob/master/files/lectures/lec3.pdf,"Ch 2.1-2.3, 2.5, 6.7, 6.8, except 6.7.2","optional: <a href=""./reading/codd.pdf"">Original Relational Model paper</a>", ,0,Project 1 Part 1 approval phase,0
 #f2f9ed,18-Feb,Relational Algebra,,1,https://github.com/w4111/w4111.github.io/blob/master/files/lectures/lec4.pdf,"Ch 2.6 (use lecture notations, which differ from the book)",,"<a href=""https://github.com/w4111/project1-s22"">Project 1 Part 2.</a> <br/><a href=""https://github.com/w4111/hw2-s22"">HW 2</a>",0,Project 1 Part 1 approval phase,0
 #f2f9ed,25-Feb,SQL: Basics,,1,https://github.com/w4111/w4111.github.io/blob/master/files/lectures/lec5.pdf,Ch 3,,,0,HW1 Part 2,0
-#f2f9ed,4-Mar,SQL: Advanced,,,,"Ch 4.1-4.4, 5.2-5.4",,,0,HW2,0
+#f2f9ed,4-Mar,SQL: Advanced,,1,https://github.com/w4111/w4111.github.io/blob/master/files/lectures/lec5.pdf,"Ch 4.1-4.4, 5.2-5.4",,,0,HW2,0
 white,11-Mar,Midterm,one 8x11 page cheat sheet both sides,,,,,"<a href=""https://github.com/w4111/project1-s22/blob/master/part3.md"">Project 1 Part 3</a><br/><a href=""https://github.com/w4111/hw3-s22"">HW 3</a>",0,,0
 white,18-Mar,HOLIDAY,,,,,,,0,Project 1 Part 2 (Due Mon 3/21),0
 #edf3f9,25-Mar,APIs,,,,"Ch 5.1, 5.2",,,0,,0
