@@ -19,7 +19,7 @@
 * [Jacob Fisher](#)   
   <small>Mon 3-5PM</small>
 * [Ashwathy Menon](#)   
-  <small>Tues 9-11AM</small>
+  <small>Tues 8-10AM</small>
 * [Sughosh V Kaushik](#)   
   <small>Fri 8-10AM</small>
 * [Rachel Halpern](#)   
