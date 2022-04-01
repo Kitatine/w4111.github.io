@@ -10,7 +10,7 @@ white,11-Mar,Midterm,one 8x11 page cheat sheet both sides,,,,,"<a href=""https:/
 white,18-Mar,HOLIDAY,,,,,,,0,Project 1 Part 2 (Due Mon 3/25),0
 #edf3f9,25-Mar,APIs,,1,https://github.com/w4111/w4111.github.io/blob/master/files/lectures/lec6.pdf,"Ch 5.1, 5.2",,,0,,0
 #edf3f9,1-Apr,Data Quality,Normalization and data errors,1,https://github.com/w4111/w4111.github.io/blob/master/files/lectures/lec7.pdf,Ch 7.1-7.5,,,0,,0
-#ddf9ff,8-Apr,Physical Design,,,,"Ch 12, 13.1-13.3, 14.3, 14.5",,"<a href=""https://github.com/w4111/project2-s22"">Project 2</a><a href=""https://github.com/w4111/hw4-s22"">HW 4</a>",0,HW3,0
+#ddf9ff,8-Apr,Physical Design,,,,"Ch 12, 13.1-13.3, 14.3, 14.5",,"<a href=""https://github.com/w4111/project2-s22"">Project 2</a><br/><a href=""https://github.com/w4111/hw4-s22"">HW 4</a>",0,HW3,0
 #ddf9ff,15-Apr,Query Processing,,,,Ch 15.1-15.6,,,0,Project 1 Part 3,0
 #ddf9ff,22-Apr,Transactions,,,,Ch 17,,,0,HW 4,0
 white,29-Apr,Data Pipelines,,,,,,,0,,0
