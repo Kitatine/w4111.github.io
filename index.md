@@ -30,6 +30,9 @@ Developed by others:
 
 #### Announcements
 
+* 4/2
+  * Updated lecture 7 to clarify conditions when checking BCNF, as well as additional examples
+    of BCNF decomposition.
 * 3/4
   * Updated lecture 5 with group-by examples and midterm logistics.
 * 3/2
