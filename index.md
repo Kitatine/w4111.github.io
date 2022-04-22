@@ -30,6 +30,10 @@ Developed by others:
 
 #### Announcements
 
+* 4/22: links to practice problems for...
+  * [Join ordering and access methods](./join.html)
+  * [FDs](./fd.html)
+  * [Schedules](./concurrency.html)
 * 4/2
   * Updated lecture 7 to clarify conditions when checking BCNF, as well as additional examples
     of BCNF decomposition.
