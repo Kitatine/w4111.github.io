@@ -30,6 +30,8 @@ Developed by others:
 
 #### Announcements
 
+* 4/24
+  * Added [extra credit assignment](https://github.com/w4111/w4111.github.io/wiki)
 * 4/22: links to practice problems for...
   * [Join ordering and access methods](./join.html)
   * [FDs](./fd.html)
