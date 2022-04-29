@@ -32,6 +32,7 @@ Developed by others:
 
 * 4/24
   * Added [extra credit assignment](https://github.com/w4111/w4111.github.io/wiki)
+  * added extra credit assignment on Gradescope.  Named "Extra Credit Drawing"
 * 4/22: links to practice problems for...
   * [Join ordering and access methods](./join.html)
   * [FDs](./fd.html)
